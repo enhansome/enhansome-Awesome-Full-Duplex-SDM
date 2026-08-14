@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "description": "Type — what the entry actually gives you:\nOpen — what has been released:\nYear is the year of first public release (arXiv v1, blog post, or repo). Entries without a dated paper are marked with the year they appeared publicly.",
+      "items": [],
+      "title": "Legend"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Datasets"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Models"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Benchmark"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Survey"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T04:56:44.033Z",
+    "original_repository": "Ruiqi-Yan/Awesome-Full-Duplex-SDM",
+    "original_repository_sha": "7de658b5ca675cd98ec14054e470d3d18e63211a",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Full-Duplex-SDM",
+    "enhanced_repository_description": null,
+    "title": "Awesome-FullDuplexSDM with stars"
+  }
+}
