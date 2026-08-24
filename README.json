@@ -1,7 +1,737 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ConversationalVoice: Full-Duplex Speech Data from Real Conversations",
+          "description": "2026 Code Github/Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1337903582,
+            "language": "Python",
+            "last_commit": "2026-08-24T08:46:35Z",
+            "owner": "avera-labs",
+            "repo": "ConversationalVoice",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DuplexGen: Adaptive Synthesis of Human-AI Turn-Taking Dialogues",
+          "description": "2026 Data + code arXiv/Github/Huggingface/Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1318738214,
+            "language": "Python",
+            "last_commit": "2026-08-21T03:53:59Z",
+            "owner": "duplexgen",
+            "repo": "duplexgen-code",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DuplexChat",
+          "description": "2026 Data + code Github/Huggingface",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1289710294,
+            "language": "Python",
+            "last_commit": "2026-07-05T05:22:03Z",
+            "owner": "sarulab-speech",
+            "repo": "DuplexChat",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SOMMELIER: Scalable Open Multi-turn Audio Pre-processing for Full-duplex Speech Language Models",
+          "description": "2026 Code (pipeline) arXiv/Demo/Github/Blog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1191435943,
+            "language": "Python",
+            "last_commit": "2026-04-01T08:29:51Z",
+            "owner": "naver-ai",
+            "repo": "sommelier",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SmoothConv & DuplexConv: Large-Scale Chinese Full-Duplex Speech Datasets for Conversational AI",
+          "description": "2026 Data + code Github/Demo/Huggingface",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1262734776,
+            "language": "HTML",
+            "last_commit": "2026-06-12T03:23:01Z",
+            "owner": "qualialabsAI",
+            "repo": "SmoothConv-DuplexConv",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TURNS-2K",
+          "description": "2025 Data Github/Huggingface",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 935195789,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-03-20T12:27:34Z",
+            "owner": "latishab",
+            "repo": "turnsense",
+            "stars": 64
+          }
+        }
+      ],
+      "title": "Datasets"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "X2-Turn: Frame-Synchronous Dual-Head Modeling for Joint Streaming ASR and Turn State Prediction",
+          "description": "2026 Component — semantic VAD Code + weights arXiv/Github/Huggingface",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1337089090,
+            "language": "Python",
+            "last_commit": "2026-08-21T07:41:37Z",
+            "owner": "X-Square-Robot",
+            "repo": "X2-Turn",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qwen Audio Agent",
+          "description": "2026 Cascaded Code Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1313435339,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T13:18:16Z",
+            "owner": "QwenAudio",
+            "repo": "qwen-audio-agent",
+            "stars": 2228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dual-Axis Generative Reward Model Toward Semantic and Turn-taking Robustness in Interactive Spoken Dialogue Models",
+          "description": "2026 Method Code arXiv/Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1212174280,
+            "language": "Python",
+            "last_commit": "2026-05-23T14:59:55Z",
+            "owner": "MM-Speech",
+            "repo": "DualAxisRM",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DuplexOmni: Real-Time Listening, Seeing, Thinking, and Speaking for Full-Duplex Interaction",
+          "description": "2026 End-to-end (omni) Code arXiv/Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1290729610,
+            "language": "Python",
+            "last_commit": "2026-07-26T16:47:08Z",
+            "owner": "MuyeHuang",
+            "repo": "DuplexOmni",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hierarchical Acoustic-Semantic Modeling: Modality Separation and Semantic Coherence for Full-Duplex SLMs",
+          "description": "2026 End-to-end Code + weights arXiv/Github/Huggingface/Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1212399830,
+            "language": "Python",
+            "last_commit": "2026-08-18T07:19:15Z",
+            "owner": "HITsz-TMG",
+            "repo": "Lychee-FD",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BayLing-Duplex: Native Full-Duplex Speech Dialogue with a Single Autoregressive LLM",
+          "description": "2026 End-to-end Code + weights arXiv/Github/Huggingface",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1266386135,
+            "language": "Python",
+            "last_commit": "2026-06-22T13:59:32Z",
+            "owner": "BayLing-Models",
+            "repo": "BayLing-Duplex",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TurnSense and TurnSense 1.1: Three-Class Semantic Turn Detection for Chinese and English Speech Interaction",
+          "description": "2026 Component — turn detection Code + weights Github/Huggingface",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1219602685,
+            "language": "Python",
+            "last_commit": "2026-08-23T12:45:08Z",
+            "owner": "Bairong-Xdynamics",
+            "repo": "TurnSense",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DuplexSLA: A Full-Duplex Spoken Language Model with Synchronized Speech, Language, and Action",
+          "description": "2026 End-to-end Code Github/Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1235155684,
+            "language": null,
+            "last_commit": "2026-05-20T07:06:56Z",
+            "owner": "hyzhang24",
+            "repo": "DuplexSLA",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "X-Talk: On the Underestimated Potential of Modular Speech-to-Speech Dialogue System",
+          "description": "2025 Cascaded Code arXiv/Github/Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1120402636,
+            "language": "Python",
+            "last_commit": "2026-08-18T11:47:34Z",
+            "owner": "xcc-zach",
+            "repo": "xtalk",
+            "stars": 243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unmute",
+          "description": "2025 Cascaded Code + weights arXiv/Github/Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 999670355,
+            "language": "Python",
+            "last_commit": "2026-07-16T10:28:21Z",
+            "owner": "kyutai-labs",
+            "repo": "unmute",
+            "stars": 1505
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MoshiRAG: Asynchronous Knowledge Retrieval for Full-Duplex Speech Language Models",
+          "description": "2026 Component — retrieval Code + weights arXiv/Github/Huggingface",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1223758935,
+            "language": "Rust",
+            "last_commit": "2026-04-28T16:18:06Z",
+            "owner": "kyutai-labs",
+            "repo": "moshi-rag",
+            "stars": 166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TurnGuide: Enhancing Meaningful Full Duplex Spoken Interactions via Dynamic Turn-Level Text-Speech Interleaving",
+          "description": "2025 Method Code arXiv/Github/Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1034961029,
+            "language": "Python",
+            "last_commit": "2026-06-15T16:12:34Z",
+            "owner": "dreamtheater123",
+            "repo": "TurnGuide",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Covo-Audio",
+          "description": "2026 End-to-end Code + weights arXiv/Github/Huggingface",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1182868007,
+            "language": "Python",
+            "last_commit": "2026-03-17T02:36:45Z",
+            "owner": "Tencent",
+            "repo": "Covo-Audio",
+            "stars": 178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SoulX-Duplug: Plug-and-Play Streaming State Prediction Module for Realtime Full-Duplex Speech Conversation",
+          "description": "2026 Component — semantic VAD Code + weights arXiv/Github/Huggingface/Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1133276485,
+            "language": "Python",
+            "last_commit": "2026-07-17T13:49:40Z",
+            "owner": "Soul-AILab",
+            "repo": "SoulX-Duplug",
+            "stars": 299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Turnsense: A Lightweight End-of-Utterance Detection Model",
+          "description": "2025 Component — turn detection Code + weights Github/Huggingface",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 935195789,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-03-20T12:27:34Z",
+            "owner": "latishab",
+            "repo": "turnsense",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EASY TURN: INTEGRATING ACOUSTIC AND LINGUISTIC MODALITIES FOR ROBUST TURN-TAKING IN FULL-DUPLEX SPOKEN DIALOGUE SYSTEMS",
+          "description": "2025 Component — turn detection Code arXiv/Github/Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1058082122,
+            "language": "Python",
+            "last_commit": "2026-01-25T08:31:43Z",
+            "owner": "ASLP-lab",
+            "repo": "Easy-Turn",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fun-Audio-Chat",
+          "description": "2025 End-to-end Code arXiv/Github/Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1121552218,
+            "language": "Python",
+            "last_commit": "2026-02-27T03:13:30Z",
+            "owner": "QwenAudio",
+            "repo": "Fun-Audio-Chat",
+            "stars": 997
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FireRedChat: A Pluggable, Full-Duplex Voice Interaction System with Cascaded and Semi-Cascaded Implementations",
+          "description": "2025 Cascaded Code arXiv/Github/Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1053139719,
+            "language": "Python",
+            "last_commit": "2025-09-28T05:08:06Z",
+            "owner": "FireRedTeam",
+            "repo": "FireRedChat",
+            "stars": 579
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PERSONAPLEX: VOICE AND ROLE CONTROL FOR FULL DUPLEX CONVERSATIONAL SPEECH MODELS",
+          "description": "2026 End-to-end Code arXiv/Github/Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1128525239,
+            "language": "Python",
+            "last_commit": "2026-03-02T16:07:10Z",
+            "owner": "NVIDIA",
+            "repo": "personaplex",
+            "stars": 10390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VITA: Towards Open-Source Interactive Omni Multimodal LLM",
+          "description": "2024 End-to-end (omni) Code + weights arXiv/Github/Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 840678954,
+            "language": "Python",
+            "last_commit": "2025-03-28T00:56:46Z",
+            "owner": "VITA-MLLM",
+            "repo": "VITA",
+            "stars": 2532
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Freeze-Omni: A Smart and Low Latency Speech-to-speech Dialogue Model with Frozen LLM",
+          "description": "2024 End-to-end Code + weights arXiv/Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 883193173,
+            "language": "Python",
+            "last_commit": "2025-05-27T08:17:36Z",
+            "owner": "VITA-MLLM",
+            "repo": "Freeze-Omni",
+            "stars": 394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Moshi: a speech-text foundation model for real-time dialogue",
+          "description": "2024 End-to-end Code + weights arXiv/Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 839238906,
+            "language": "Python",
+            "last_commit": "2026-05-16T13:14:41Z",
+            "owner": "kyutai-labs",
+            "repo": "moshi",
+            "stars": 10931
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SALMONN-omni: A Standalone Speech LLM without Codec Injection for Full-duplex Conversation",
+          "description": "2025 End-to-end Code arXiv/Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 677284959,
+            "language": null,
+            "last_commit": "2026-08-24T07:11:01Z",
+            "owner": "bytedance",
+            "repo": "SALMONN",
+            "stars": 1511
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CleanS2S: Single-file Framework for Proactive Speech-to-Speech Interaction",
+          "description": "2025 Framework Code arXiv/Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 863345269,
+            "language": "Python",
+            "last_commit": "2026-04-07T08:39:02Z",
+            "owner": "opendilab",
+            "repo": "CleanS2S",
+            "stars": 540
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mini-Omni2: Towards Open-source GPT-4o with Vision, Speech and Duplex Capabilities",
+          "description": "2024 End-to-end (omni) Code + weights arXiv/Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 872524976,
+            "language": "Python",
+            "last_commit": "2025-01-16T14:20:25Z",
+            "owner": "gpt-omni",
+            "repo": "mini-omni2",
+            "stars": 1920
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Real-Time Textless Dialogue Generation",
+          "description": "2025 End-to-end Code arXiv/Github/Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 902981642,
+            "language": "Python",
+            "last_commit": "2026-08-14T07:11:25Z",
+            "owner": "mailong25",
+            "repo": "rts2s-dg",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Generative Spoken Dialogue Language Modeling",
+          "description": "2022 End-to-end Code + weights arXiv/Github/Demo",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 101782647,
+            "language": "Python",
+            "last_commit": "2025-09-30T11:16:06Z",
+            "owner": "facebookresearch",
+            "repo": "fairseq",
+            "stars": 32235
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DuplexMamba: Enhancing Real-time Speech Conversations with Duplex and Streaming Capabilities",
+          "description": "2025 End-to-end Code arXiv/Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 943129483,
+            "language": "Python",
+            "last_commit": "2026-03-06T08:19:41Z",
+            "owner": "khfs",
+            "repo": "DuplexMamba",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beyond the Turn-Based Game: Enabling Real-Time Conversations with Duplex Models",
+          "description": "2024 Method Code + data arXiv/Github/HuggingFace",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 818219536,
+            "language": "TypeScript",
+            "last_commit": "2024-08-17T07:33:05Z",
+            "owner": "thunlp",
+            "repo": "duplex-model",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KAME: Tandem Architecture for Enhancing Knowledge in Real-Time Speech-to-Speech Conversational AI",
+          "description": "2025 Component — retrieval Code + weights arXiv/Github/HuggingFace",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1204657730,
+            "language": "Python",
+            "last_commit": "2026-08-07T11:49:58Z",
+            "owner": "SakanaAI",
+            "repo": "kame",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VoXtream: Full-Stream Text-to-Speech with Extremely Low Latency",
+          "description": "2025 Component — streaming TTS Code arXiv/Github/Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1059321967,
+            "language": "Python",
+            "last_commit": "2026-05-30T16:34:45Z",
+            "owner": "herimor",
+            "repo": "voxtream",
+            "stars": 249
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VoXtream2: Full-stream TTS with dynamic speaking rate control",
+          "description": "2026 Component — streaming TTS Code arXiv/Github/Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1059321967,
+            "language": "Python",
+            "last_commit": "2026-05-30T16:34:45Z",
+            "owner": "herimor",
+            "repo": "voxtream",
+            "stars": 249
+          }
+        }
+      ],
+      "title": "Models"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Semantic-Aware Interruption Detection in Spoken Dialogue Systems: Benchmark, Metric, and Model",
+          "description": "2026 arXiv/Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1126121819,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-03T06:10:52Z",
+            "owner": "xkx-hub",
+            "repo": "SID-bench",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Full-Duplex Interaction in Spoken Dialogue Systems: A Comprehensive Study from the ICASSP 2026 HumDial Challenge",
+          "description": "2026 arXiv/Github/Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1218780500,
+            "language": "Python",
+            "last_commit": "2026-04-27T03:49:07Z",
+            "owner": "ASLP-lab",
+            "repo": "HumDial-FDBench",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Full-Duplex-Bench-v3: Benchmarking Tool Use for Full-Duplex Voice Agents Under Real-World Disfluency",
+          "description": "2026 arXiv/Github/Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 934446042,
+            "language": "Python",
+            "last_commit": "2026-05-20T15:15:55Z",
+            "owner": "DanielLin94144",
+            "repo": "Full-Duplex-Bench",
+            "stars": 272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Full-Duplex-Bench-v2: A Multi-Turn Evaluation Framework for Duplex Dialogue Systems with an Automated Examiner",
+          "description": "2025 arXiv/Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 934446042,
+            "language": "Python",
+            "last_commit": "2026-05-20T15:15:55Z",
+            "owner": "DanielLin94144",
+            "repo": "Full-Duplex-Bench",
+            "stars": 272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FULL-DUPLEX-BENCH V1.5: Evaluating Overlap Handling for Full-Duplex Speech Models",
+          "description": "2025 arXiv/Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 934446042,
+            "language": "Python",
+            "last_commit": "2026-05-20T15:15:55Z",
+            "owner": "DanielLin94144",
+            "repo": "Full-Duplex-Bench",
+            "stars": 272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Full-Duplex-Bench: A Benchmark to Evaluate Full-duplex Spoken Dialogue Models on Turn-taking Capabilities",
+          "description": "2025 arXiv/Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 934446042,
+            "language": "Python",
+            "last_commit": "2026-05-20T15:15:55Z",
+            "owner": "DanielLin94144",
+            "repo": "Full-Duplex-Bench",
+            "stars": 272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FD-Bench: A Full-Duplex Benchmarking Pipeline Designed for Full Duplex Spoken Dialogue Systems",
+          "description": "2025 arXiv/Github/Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1013528642,
+            "language": "Python",
+            "last_commit": "2025-08-14T03:41:17Z",
+            "owner": "pengyizhou",
+            "repo": "FD-Bench",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "Benchmark"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A Survey of Full-Duplex Spoken Dialogue Systems: Architectural Hierarchy, Interaction Ontology, and Decision State Machine",
+          "description": "2026 arXiv/Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1248914208,
+            "language": null,
+            "last_commit": "2026-06-18T03:25:12Z",
+            "owner": "DuplexLM",
+            "repo": "DuplexSurvey",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "From Turn-Taking to Synchronous Dialogue: A Survey of Full-Duplex Spoken Language Models",
+          "description": "2025 arXiv/Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1058566447,
+            "language": null,
+            "last_commit": "2025-12-23T07:55:35Z",
+            "owner": "elpsykongloo",
+            "repo": "FD-SLMs",
+            "stars": 29
+          }
+        }
+      ],
+      "title": "Survey"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T04:00:56.124Z",
+    "last_updated": "2026-08-24T14:36:00.449Z",
     "original_repository": "Ruiqi-Yan/Awesome-Full-Duplex-SDM",
     "original_repository_id": 1029523598,
     "original_repository_sha": "fb28ee05ffc5c13ac11f0aaf11995f2b00bd5b88",
