@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T08:46:35Z",
             "owner": "avera-labs",
             "repo": "ConversationalVoice",
-            "stars": 29
+            "stars": 30
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-08-21T07:41:37Z",
             "owner": "X-Square-Robot",
             "repo": "X2-Turn",
-            "stars": 59
+            "stars": 60
           }
         },
         {
@@ -123,10 +123,10 @@
             "archived": false,
             "id": 1313435339,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T17:25:19Z",
+            "last_commit": "2026-08-25T06:23:49Z",
             "owner": "QwenAudio",
             "repo": "qwen-audio-agent",
-            "stars": 2232
+            "stars": 2233
           }
         },
         {
@@ -731,7 +731,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:54:31.223Z",
+    "last_updated": "2026-08-25T06:26:43.168Z",
     "original_repository": "Ruiqi-Yan/Awesome-Full-Duplex-SDM",
     "original_repository_id": 1029523598,
     "original_repository_sha": "fb28ee05ffc5c13ac11f0aaf11995f2b00bd5b88",
