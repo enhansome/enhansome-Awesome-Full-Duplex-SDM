@@ -111,7 +111,7 @@
             "last_commit": "2026-08-21T07:41:37Z",
             "owner": "X-Square-Robot",
             "repo": "X2-Turn",
-            "stars": 58
+            "stars": 59
           }
         },
         {
@@ -123,10 +123,10 @@
             "archived": false,
             "id": 1313435339,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T13:18:16Z",
+            "last_commit": "2026-08-24T17:25:19Z",
             "owner": "QwenAudio",
             "repo": "qwen-audio-agent",
-            "stars": 2228
+            "stars": 2232
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-07-26T16:47:08Z",
             "owner": "MuyeHuang",
             "repo": "DuplexOmni",
-            "stars": 100
+            "stars": 101
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-08-18T07:19:15Z",
             "owner": "HITsz-TMG",
             "repo": "Lychee-FD",
-            "stars": 124
+            "stars": 125
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-05-20T07:06:56Z",
             "owner": "hyzhang24",
             "repo": "DuplexSLA",
-            "stars": 126
+            "stars": 128
           }
         },
         {
@@ -261,7 +261,7 @@
             "last_commit": "2026-04-28T16:18:06Z",
             "owner": "kyutai-labs",
             "repo": "moshi-rag",
-            "stars": 166
+            "stars": 167
           }
         },
         {
@@ -381,7 +381,7 @@
             "last_commit": "2026-03-02T16:07:10Z",
             "owner": "NVIDIA",
             "repo": "personaplex",
-            "stars": 10390
+            "stars": 10391
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2026-05-16T13:14:41Z",
             "owner": "kyutai-labs",
             "repo": "moshi",
-            "stars": 10931
+            "stars": 10935
           }
         },
         {
@@ -471,7 +471,7 @@
             "last_commit": "2025-01-16T14:20:25Z",
             "owner": "gpt-omni",
             "repo": "mini-omni2",
-            "stars": 1920
+            "stars": 1921
           }
         },
         {
@@ -731,7 +731,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:36:00.449Z",
+    "last_updated": "2026-08-25T03:54:31.223Z",
     "original_repository": "Ruiqi-Yan/Awesome-Full-Duplex-SDM",
     "original_repository_id": 1029523598,
     "original_repository_sha": "fb28ee05ffc5c13ac11f0aaf11995f2b00bd5b88",
