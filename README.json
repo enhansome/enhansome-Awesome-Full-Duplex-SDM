@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1337903582,
             "language": "Python",
-            "last_commit": "2026-08-24T08:46:35Z",
+            "last_commit": "2026-08-25T10:59:43Z",
             "owner": "avera-labs",
             "repo": "ConversationalVoice",
-            "stars": 30
+            "stars": 31
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-08-21T07:41:37Z",
             "owner": "X-Square-Robot",
             "repo": "X2-Turn",
-            "stars": 60
+            "stars": 64
           }
         },
         {
@@ -123,10 +123,10 @@
             "archived": false,
             "id": 1313435339,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T06:23:49Z",
+            "last_commit": "2026-08-26T02:52:23Z",
             "owner": "QwenAudio",
             "repo": "qwen-audio-agent",
-            "stars": 2233
+            "stars": 2253
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-07-26T16:47:08Z",
             "owner": "MuyeHuang",
             "repo": "DuplexOmni",
-            "stars": 101
+            "stars": 102
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-05-20T07:06:56Z",
             "owner": "hyzhang24",
             "repo": "DuplexSLA",
-            "stars": 128
+            "stars": 130
           }
         },
         {
@@ -366,7 +366,7 @@
             "last_commit": "2025-09-28T05:08:06Z",
             "owner": "FireRedTeam",
             "repo": "FireRedChat",
-            "stars": 579
+            "stars": 580
           }
         },
         {
@@ -411,7 +411,7 @@
             "last_commit": "2025-05-27T08:17:36Z",
             "owner": "VITA-MLLM",
             "repo": "Freeze-Omni",
-            "stars": 394
+            "stars": 395
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2026-05-16T13:14:41Z",
             "owner": "kyutai-labs",
             "repo": "moshi",
-            "stars": 10935
+            "stars": 10943
           }
         },
         {
@@ -441,7 +441,7 @@
             "last_commit": "2026-08-24T07:11:01Z",
             "owner": "bytedance",
             "repo": "SALMONN",
-            "stars": 1511
+            "stars": 1513
           }
         },
         {
@@ -501,7 +501,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32235
+            "stars": 32232
           }
         },
         {
@@ -627,7 +627,7 @@
             "last_commit": "2026-05-20T15:15:55Z",
             "owner": "DanielLin94144",
             "repo": "Full-Duplex-Bench",
-            "stars": 272
+            "stars": 273
           }
         },
         {
@@ -642,7 +642,7 @@
             "last_commit": "2026-05-20T15:15:55Z",
             "owner": "DanielLin94144",
             "repo": "Full-Duplex-Bench",
-            "stars": 272
+            "stars": 273
           }
         },
         {
@@ -657,7 +657,7 @@
             "last_commit": "2026-05-20T15:15:55Z",
             "owner": "DanielLin94144",
             "repo": "Full-Duplex-Bench",
-            "stars": 272
+            "stars": 273
           }
         },
         {
@@ -672,7 +672,7 @@
             "last_commit": "2026-05-20T15:15:55Z",
             "owner": "DanielLin94144",
             "repo": "Full-Duplex-Bench",
-            "stars": 272
+            "stars": 273
           }
         },
         {
@@ -705,10 +705,10 @@
             "archived": false,
             "id": 1248914208,
             "language": null,
-            "last_commit": "2026-06-18T03:25:12Z",
-            "owner": "DuplexLM",
+            "last_commit": "2026-08-25T13:29:14Z",
+            "owner": "MM-Speech",
             "repo": "DuplexSurvey",
-            "stars": 70
+            "stars": 73
           }
         },
         {
@@ -731,7 +731,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:26:43.168Z",
+    "last_updated": "2026-08-26T03:59:09.506Z",
     "original_repository": "Ruiqi-Yan/Awesome-Full-Duplex-SDM",
     "original_repository_id": 1029523598,
     "original_repository_sha": "fb28ee05ffc5c13ac11f0aaf11995f2b00bd5b88",
