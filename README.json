@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1337903582,
             "language": "Python",
-            "last_commit": "2026-08-25T10:59:43Z",
+            "last_commit": "2026-08-27T10:22:00Z",
             "owner": "avera-labs",
             "repo": "ConversationalVoice",
-            "stars": 31
+            "stars": 33
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-04-01T08:29:51Z",
             "owner": "naver-ai",
             "repo": "sommelier",
-            "stars": 61
+            "stars": 62
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-08-21T07:41:37Z",
             "owner": "X-Square-Robot",
             "repo": "X2-Turn",
-            "stars": 64
+            "stars": 71
           }
         },
         {
@@ -123,10 +123,10 @@
             "archived": false,
             "id": 1313435339,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T02:52:23Z",
+            "last_commit": "2026-08-27T08:56:02Z",
             "owner": "QwenAudio",
             "repo": "qwen-audio-agent",
-            "stars": 2253
+            "stars": 2274
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-07-26T16:47:08Z",
             "owner": "MuyeHuang",
             "repo": "DuplexOmni",
-            "stars": 102
+            "stars": 105
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-08-18T07:19:15Z",
             "owner": "HITsz-TMG",
             "repo": "Lychee-FD",
-            "stars": 125
+            "stars": 128
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-06-22T13:59:32Z",
             "owner": "BayLing-Models",
             "repo": "BayLing-Duplex",
-            "stars": 77
+            "stars": 78
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2026-08-18T11:47:34Z",
             "owner": "xcc-zach",
             "repo": "xtalk",
-            "stars": 243
+            "stars": 244
           }
         },
         {
@@ -246,7 +246,7 @@
             "last_commit": "2026-07-16T10:28:21Z",
             "owner": "kyutai-labs",
             "repo": "unmute",
-            "stars": 1505
+            "stars": 1506
           }
         },
         {
@@ -261,7 +261,7 @@
             "last_commit": "2026-04-28T16:18:06Z",
             "owner": "kyutai-labs",
             "repo": "moshi-rag",
-            "stars": 167
+            "stars": 169
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2026-07-17T13:49:40Z",
             "owner": "Soul-AILab",
             "repo": "SoulX-Duplug",
-            "stars": 299
+            "stars": 301
           }
         },
         {
@@ -366,7 +366,7 @@
             "last_commit": "2025-09-28T05:08:06Z",
             "owner": "FireRedTeam",
             "repo": "FireRedChat",
-            "stars": 580
+            "stars": 581
           }
         },
         {
@@ -381,7 +381,7 @@
             "last_commit": "2026-03-02T16:07:10Z",
             "owner": "NVIDIA",
             "repo": "personaplex",
-            "stars": 10391
+            "stars": 10393
           }
         },
         {
@@ -396,7 +396,7 @@
             "last_commit": "2025-03-28T00:56:46Z",
             "owner": "VITA-MLLM",
             "repo": "VITA",
-            "stars": 2532
+            "stars": 2534
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2026-05-16T13:14:41Z",
             "owner": "kyutai-labs",
             "repo": "moshi",
-            "stars": 10943
+            "stars": 10952
           }
         },
         {
@@ -441,7 +441,7 @@
             "last_commit": "2026-08-24T07:11:01Z",
             "owner": "bytedance",
             "repo": "SALMONN",
-            "stars": 1513
+            "stars": 1515
           }
         },
         {
@@ -456,7 +456,7 @@
             "last_commit": "2026-04-07T08:39:02Z",
             "owner": "opendilab",
             "repo": "CleanS2S",
-            "stars": 540
+            "stars": 541
           }
         },
         {
@@ -471,7 +471,7 @@
             "last_commit": "2025-01-16T14:20:25Z",
             "owner": "gpt-omni",
             "repo": "mini-omni2",
-            "stars": 1921
+            "stars": 1923
           }
         },
         {
@@ -501,7 +501,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32232
+            "stars": 32231
           }
         },
         {
@@ -708,7 +708,7 @@
             "last_commit": "2026-08-25T13:29:14Z",
             "owner": "MM-Speech",
             "repo": "DuplexSurvey",
-            "stars": 73
+            "stars": 74
           }
         },
         {
@@ -731,9 +731,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:59:09.506Z",
-    "original_repository": "Ruiqi-Yan/Awesome-Full-Duplex-SDM",
-    "original_repository_id": 1029523598,
+    "last_updated": "2026-08-27T11:24:01.193Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1029523598,
+      "language": null,
+      "last_commit": "2026-08-21T11:59:35Z",
+      "owner": "Ruiqi-Yan",
+      "repo": "Awesome-Full-Duplex-SDM",
+      "stars": 213
+    },
     "original_repository_sha": "fb28ee05ffc5c13ac11f0aaf11995f2b00bd5b88",
     "enhanced_repository": "enhansome/enhansome-Awesome-Full-Duplex-SDM",
     "enhanced_repository_description": null,
