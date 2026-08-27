@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1337903582,
             "language": "Python",
-            "last_commit": "2026-08-27T10:22:00Z",
+            "last_commit": "2026-08-27T13:21:07Z",
             "owner": "avera-labs",
             "repo": "ConversationalVoice",
-            "stars": 33
+            "stars": 35
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2026-05-16T13:14:41Z",
             "owner": "kyutai-labs",
             "repo": "moshi",
-            "stars": 10952
+            "stars": 10957
           }
         },
         {
@@ -731,7 +731,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:24:01.193Z",
+    "last_updated": "2026-08-27T14:04:14.000Z",
     "original_repository_info": {
       "archived": false,
       "id": 1029523598,
