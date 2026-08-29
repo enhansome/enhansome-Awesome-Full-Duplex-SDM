@@ -172,11 +172,11 @@
             "id": 1313435339,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T04:00:05Z",
-            "open_issues": 14,
+            "last_commit": "2026-08-29T06:13:55Z",
+            "open_issues": 12,
             "owner": "QwenAudio",
             "repo": "qwen-audio-agent",
-            "stars": 2285,
+            "stars": 2286,
             "topics": [
               "acp",
               "agent",
@@ -566,7 +566,7 @@
             "open_issues": 70,
             "owner": "NVIDIA",
             "repo": "personaplex",
-            "stars": 10396,
+            "stars": 10395,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -1114,7 +1114,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:54:37.534Z",
+    "last_updated": "2026-08-29T09:57:49.104Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of full-duplex spoken dialogue models & benchmarks",
