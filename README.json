@@ -15,7 +15,7 @@
             "id": 1337903582,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T15:04:16Z",
+            "last_commit": "2026-08-31T08:29:23Z",
             "open_issues": 1,
             "owner": "avera-labs",
             "repo": "ConversationalVoice",
@@ -99,7 +99,7 @@
             "id": 1262734776,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-06-12T03:23:01Z",
+            "last_commit": "2026-08-31T05:37:59Z",
             "open_issues": 1,
             "owner": "qualialabsAI",
             "repo": "SmoothConv-DuplexConv",
@@ -124,7 +124,7 @@
             "open_issues": 1,
             "owner": "latishab",
             "repo": "turnsense",
-            "stars": 64,
+            "stars": 65,
             "topics": [
               "natural-language-processing",
               "python",
@@ -155,7 +155,7 @@
             "open_issues": 4,
             "owner": "X-Square-Robot",
             "repo": "X2-Turn",
-            "stars": 76,
+            "stars": 77,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -172,11 +172,11 @@
             "id": 1313435339,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T06:13:55Z",
+            "last_commit": "2026-08-31T07:52:42Z",
             "open_issues": 13,
             "owner": "QwenAudio",
             "repo": "qwen-audio-agent",
-            "stars": 2295,
+            "stars": 2300,
             "topics": [
               "acp",
               "agent",
@@ -232,7 +232,7 @@
             "open_issues": 7,
             "owner": "MuyeHuang",
             "repo": "DuplexOmni",
-            "stars": 105,
+            "stars": 107,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -253,7 +253,7 @@
             "open_issues": 3,
             "owner": "HITsz-TMG",
             "repo": "Lychee-FD",
-            "stars": 128,
+            "stars": 130,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -337,7 +337,7 @@
             "open_issues": 4,
             "owner": "xcc-zach",
             "repo": "xtalk",
-            "stars": 244,
+            "stars": 243,
             "topics": [
               "ai",
               "conversational-ai",
@@ -367,7 +367,7 @@
             "open_issues": 25,
             "owner": "kyutai-labs",
             "repo": "unmute",
-            "stars": 1506,
+            "stars": 1507,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -451,7 +451,7 @@
             "open_issues": 13,
             "owner": "Soul-AILab",
             "repo": "SoulX-Duplug",
-            "stars": 303,
+            "stars": 305,
             "topics": [
               "full-duplex",
               "semantic-vad",
@@ -478,7 +478,7 @@
             "open_issues": 1,
             "owner": "latishab",
             "repo": "turnsense",
-            "stars": 64,
+            "stars": 65,
             "topics": [
               "natural-language-processing",
               "python",
@@ -503,7 +503,7 @@
             "open_issues": 18,
             "owner": "ASLP-lab",
             "repo": "Easy-Turn",
-            "stars": 138,
+            "stars": 139,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -524,7 +524,7 @@
             "open_issues": 18,
             "owner": "QwenAudio",
             "repo": "Fun-Audio-Chat",
-            "stars": 999,
+            "stars": 1000,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -639,10 +639,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-05-16T13:14:41Z",
-            "open_issues": 91,
+            "open_issues": 90,
             "owner": "kyutai-labs",
             "repo": "moshi",
-            "stars": 10977,
+            "stars": 10985,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -700,7 +700,7 @@
             "open_issues": 4,
             "owner": "opendilab",
             "repo": "CleanS2S",
-            "stars": 541,
+            "stars": 540,
             "topics": [
               "ai",
               "gpt-4o",
@@ -730,7 +730,7 @@
             "open_issues": 34,
             "owner": "gpt-omni",
             "repo": "mini-omni2",
-            "stars": 1924,
+            "stars": 1923,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -772,7 +772,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32231,
+            "stars": 32230,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -1114,7 +1114,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T09:08:40.413Z",
+    "last_updated": "2026-08-31T09:37:31.089Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of full-duplex spoken dialogue models & benchmarks",
