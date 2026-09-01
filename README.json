@@ -15,7 +15,7 @@
             "id": 1337903582,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T08:29:23Z",
+            "last_commit": "2026-09-01T08:21:28Z",
             "open_issues": 1,
             "owner": "avera-labs",
             "repo": "ConversationalVoice",
@@ -155,7 +155,7 @@
             "open_issues": 4,
             "owner": "X-Square-Robot",
             "repo": "X2-Turn",
-            "stars": 77,
+            "stars": 78,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -172,11 +172,11 @@
             "id": 1313435339,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T07:52:42Z",
+            "last_commit": "2026-09-01T06:48:19Z",
             "open_issues": 13,
             "owner": "QwenAudio",
             "repo": "qwen-audio-agent",
-            "stars": 2300,
+            "stars": 2309,
             "topics": [
               "acp",
               "agent",
@@ -229,10 +229,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-07-26T16:47:08Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "MuyeHuang",
             "repo": "DuplexOmni",
-            "stars": 107,
+            "stars": 108,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -388,7 +388,7 @@
             "open_issues": 0,
             "owner": "kyutai-labs",
             "repo": "moshi-rag",
-            "stars": 169,
+            "stars": 170,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -451,7 +451,7 @@
             "open_issues": 13,
             "owner": "Soul-AILab",
             "repo": "SoulX-Duplug",
-            "stars": 305,
+            "stars": 306,
             "topics": [
               "full-duplex",
               "semantic-vad",
@@ -545,7 +545,7 @@
             "open_issues": 19,
             "owner": "FireRedTeam",
             "repo": "FireRedChat",
-            "stars": 581,
+            "stars": 584,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -566,7 +566,7 @@
             "open_issues": 70,
             "owner": "NVIDIA",
             "repo": "personaplex",
-            "stars": 10394,
+            "stars": 10396,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -614,7 +614,7 @@
             "open_issues": 16,
             "owner": "VITA-MLLM",
             "repo": "Freeze-Omni",
-            "stars": 395,
+            "stars": 397,
             "topics": [
               "large-language-models",
               "multimodal-large-language-models",
@@ -642,7 +642,7 @@
             "open_issues": 90,
             "owner": "kyutai-labs",
             "repo": "moshi",
-            "stars": 10985,
+            "stars": 10991,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -663,7 +663,7 @@
             "open_issues": 29,
             "owner": "bytedance",
             "repo": "SALMONN",
-            "stars": 1519,
+            "stars": 1520,
             "topics": [
               "audio",
               "audio-processing",
@@ -772,7 +772,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32230,
+            "stars": 32229,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -904,6 +904,27 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "TurnBench: A Multi-Domain Benchmark for Turn-Taking Dynamics in Spoken Dialogue",
+          "description": "2026 arXiv/Demo/Dataset/Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "TurnBench: a multi-domain benchmark for end-of-turn and interruption detection in spoken dialogue",
+            "homepage": "https://turnbench.sesame.com",
+            "id": 1348097705,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-08-31T20:57:08Z",
+            "open_issues": 1,
+            "owner": "SesameAILabs",
+            "repo": "turnbench",
+            "stars": 28,
+            "topics": []
+          },
+          "first_seen": "2026-09-01T08:33:20.819Z"
+        },
         {
           "node_type": "item",
           "title": "Semantic-Aware Interruption Detection in Spoken Dialogue Systems: Benchmark, Metric, and Model",
@@ -1114,7 +1135,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T09:37:31.089Z",
+    "last_updated": "2026-09-01T08:33:20.819Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of full-duplex spoken dialogue models & benchmarks",
@@ -1122,11 +1143,11 @@
       "id": 1029523598,
       "language": null,
       "license": null,
-      "last_commit": "2026-08-21T11:59:35Z",
+      "last_commit": "2026-08-31T18:01:21Z",
       "open_issues": 0,
       "owner": "Ruiqi-Yan",
       "repo": "Awesome-Full-Duplex-SDM",
-      "stars": 214,
+      "stars": 215,
       "topics": [
         "awesome-list",
         "full-duplex",
@@ -1134,7 +1155,7 @@
         "spoken-dialogue-systems"
       ]
     },
-    "original_repository_sha": "fb28ee05ffc5c13ac11f0aaf11995f2b00bd5b88",
+    "original_repository_sha": "2e529c33119a8fbc0c15cebf104dc7bfdfcd7f19",
     "enhanced_repository": "enhansome/enhansome-Awesome-Full-Duplex-SDM",
     "enhanced_repository_description": null,
     "title": "Awesome-FullDuplexSDM with stars"
