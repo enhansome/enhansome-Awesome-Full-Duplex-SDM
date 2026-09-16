@@ -152,10 +152,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-15T04:07:47Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "Omni-Interaction-Gander",
             "repo": "Omni-Interaction-Agent",
-            "stars": 227,
+            "stars": 247,
             "topics": []
           },
           "first_seen": "2026-09-09T08:03:27.301Z"
@@ -176,7 +176,7 @@
             "open_issues": 1,
             "owner": "X-Square-Robot",
             "repo": "X2-Turn",
-            "stars": 91,
+            "stars": 95,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -193,11 +193,11 @@
             "id": 1313435339,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T09:40:05Z",
+            "last_commit": "2026-09-16T08:25:12Z",
             "open_issues": 41,
             "owner": "QwenAudio",
             "repo": "qwen-audio-agent",
-            "stars": 2623,
+            "stars": 2656,
             "topics": [
               "acp",
               "agent",
@@ -250,10 +250,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-07-26T16:47:08Z",
-            "open_issues": 9,
+            "open_issues": 8,
             "owner": "MuyeHuang",
             "repo": "DuplexOmni",
-            "stars": 116,
+            "stars": 117,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -472,7 +472,7 @@
             "open_issues": 13,
             "owner": "Soul-AILab",
             "repo": "SoulX-Duplug",
-            "stars": 312,
+            "stars": 313,
             "topics": [
               "full-duplex",
               "semantic-vad",
@@ -545,7 +545,7 @@
             "open_issues": 19,
             "owner": "QwenAudio",
             "repo": "Fun-Audio-Chat",
-            "stars": 1005,
+            "stars": 1006,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -587,7 +587,7 @@
             "open_issues": 70,
             "owner": "NVIDIA",
             "repo": "personaplex",
-            "stars": 10537,
+            "stars": 10543,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -660,10 +660,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-09T14:37:00Z",
-            "open_issues": 90,
+            "open_issues": 91,
             "owner": "kyutai-labs",
             "repo": "moshi",
-            "stars": 11087,
+            "stars": 11093,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -751,7 +751,7 @@
             "open_issues": 34,
             "owner": "gpt-omni",
             "repo": "mini-omni2",
-            "stars": 1930,
+            "stars": 1929,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -793,7 +793,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32227,
+            "stars": 32226,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -941,7 +941,7 @@
             "open_issues": 1,
             "owner": "SesameAILabs",
             "repo": "turnbench",
-            "stars": 40,
+            "stars": 41,
             "topics": []
           },
           "first_seen": "2026-09-01T08:33:20.819Z"
@@ -1115,7 +1115,7 @@
             "open_issues": 2,
             "owner": "MM-Speech",
             "repo": "DuplexSurvey",
-            "stars": 84,
+            "stars": 85,
             "topics": [
               "awesome-list",
               "emnlp2026",
@@ -1156,7 +1156,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T08:35:18.871Z",
+    "last_updated": "2026-09-16T08:29:36.907Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of full-duplex spoken dialogue models & benchmarks",
