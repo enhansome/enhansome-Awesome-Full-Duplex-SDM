@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "avera-labs",
             "repo": "ConversationalVoice",
-            "stars": 49,
+            "stars": 52,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -99,7 +99,7 @@
             "id": 1262734776,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-08-31T05:37:59Z",
+            "last_commit": "2026-09-22T07:16:29Z",
             "open_issues": 1,
             "owner": "qualialabsAI",
             "repo": "SmoothConv-DuplexConv",
@@ -141,6 +141,27 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Realtime-Venus: A full-duplex interaction system with asynchronous delegation",
+          "description": "2026 End-to-end Code + weights arXiv/Github/Huggingface/Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1372712376,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-22T05:16:42Z",
+            "open_issues": 1,
+            "owner": "inclusionAI",
+            "repo": "Realtime-Venus",
+            "stars": 42,
+            "topics": []
+          },
+          "first_seen": "2026-09-22T08:26:59.726Z"
+        },
+        {
+          "node_type": "item",
           "title": "SteerDuplex: Steerable Duplex Speech Dialogue Models",
           "description": "2026 End-to-end To be released arXiv/Github",
           "children": [],
@@ -155,7 +176,7 @@
             "open_issues": 0,
             "owner": "Utkarsh4430",
             "repo": "SteerDuplex",
-            "stars": 7,
+            "stars": 8,
             "topics": []
           },
           "first_seen": "2026-09-17T08:34:34.593Z"
@@ -176,7 +197,7 @@
             "open_issues": 7,
             "owner": "Omni-Interaction-Gander",
             "repo": "Omni-Interaction-Agent",
-            "stars": 286,
+            "stars": 288,
             "topics": []
           },
           "first_seen": "2026-09-09T08:03:27.301Z"
@@ -197,7 +218,7 @@
             "open_issues": 0,
             "owner": "X-Square-Robot",
             "repo": "X2-Turn",
-            "stars": 96,
+            "stars": 97,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -214,11 +235,11 @@
             "id": 1313435339,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T05:59:02Z",
-            "open_issues": 25,
+            "last_commit": "2026-09-22T08:03:04Z",
+            "open_issues": 5,
             "owner": "QwenAudio",
             "repo": "qwen-audio-agent",
-            "stars": 2726,
+            "stars": 2730,
             "topics": [
               "acp",
               "agent",
@@ -295,7 +316,7 @@
             "open_issues": 3,
             "owner": "HITsz-TMG",
             "repo": "Lychee-FD",
-            "stars": 147,
+            "stars": 148,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -375,8 +396,8 @@
             "id": 1120402636,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T05:12:56Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-22T03:58:38Z",
+            "open_issues": 4,
             "owner": "xcc-zach",
             "repo": "xtalk",
             "stars": 245,
@@ -430,7 +451,7 @@
             "open_issues": 0,
             "owner": "kyutai-labs",
             "repo": "moshi-rag",
-            "stars": 187,
+            "stars": 188,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -493,7 +514,7 @@
             "open_issues": 13,
             "owner": "Soul-AILab",
             "repo": "SoulX-Duplug",
-            "stars": 316,
+            "stars": 317,
             "topics": [
               "full-duplex",
               "semantic-vad",
@@ -562,7 +583,7 @@
             "id": 1121552218,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-02-27T03:13:30Z",
+            "last_commit": "2026-09-21T14:03:21Z",
             "open_issues": 19,
             "owner": "QwenAudio",
             "repo": "Fun-Audio-Chat",
@@ -608,7 +629,7 @@
             "open_issues": 70,
             "owner": "NVIDIA",
             "repo": "personaplex",
-            "stars": 10557,
+            "stars": 10561,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -684,7 +705,7 @@
             "open_issues": 93,
             "owner": "kyutai-labs",
             "repo": "moshi",
-            "stars": 11117,
+            "stars": 11125,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -702,10 +723,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-08-24T07:11:01Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "bytedance",
             "repo": "SALMONN",
-            "stars": 1535,
+            "stars": 1536,
             "topics": [
               "audio",
               "audio-processing",
@@ -772,7 +793,7 @@
             "open_issues": 34,
             "owner": "gpt-omni",
             "repo": "mini-omni2",
-            "stars": 1930,
+            "stars": 1932,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -814,7 +835,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32220,
+            "stars": 32221,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -1025,7 +1046,7 @@
             "open_issues": 9,
             "owner": "DanielLin94144",
             "repo": "Full-Duplex-Bench",
-            "stars": 298,
+            "stars": 297,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -1046,7 +1067,7 @@
             "open_issues": 9,
             "owner": "DanielLin94144",
             "repo": "Full-Duplex-Bench",
-            "stars": 298,
+            "stars": 297,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -1067,7 +1088,7 @@
             "open_issues": 9,
             "owner": "DanielLin94144",
             "repo": "Full-Duplex-Bench",
-            "stars": 298,
+            "stars": 297,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -1088,7 +1109,7 @@
             "open_issues": 9,
             "owner": "DanielLin94144",
             "repo": "Full-Duplex-Bench",
-            "stars": 298,
+            "stars": 297,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -1177,7 +1198,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T08:49:55.068Z",
+    "last_updated": "2026-09-22T08:26:59.726Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of full-duplex spoken dialogue models & benchmarks",
@@ -1185,11 +1206,11 @@
       "id": 1029523598,
       "language": null,
       "license": null,
-      "last_commit": "2026-09-17T08:16:04Z",
+      "last_commit": "2026-09-21T12:34:56Z",
       "open_issues": 0,
       "owner": "Ruiqi-Yan",
       "repo": "Awesome-Full-Duplex-SDM",
-      "stars": 240,
+      "stars": 243,
       "topics": [
         "awesome-list",
         "full-duplex",
@@ -1197,7 +1218,7 @@
         "spoken-dialogue-systems"
       ]
     },
-    "original_repository_sha": "84b80c81ea72433f63d3d78a3afd960507c6963f",
+    "original_repository_sha": "824da6c9e184035c2e9b92ce67fc25fa13afb2d3",
     "enhanced_repository": "enhansome/enhansome-Awesome-Full-Duplex-SDM",
     "enhanced_repository_description": null,
     "title": "Awesome-FullDuplexSDM with stars"
