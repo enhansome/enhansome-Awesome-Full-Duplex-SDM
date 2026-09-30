@@ -155,7 +155,7 @@
             "open_issues": 1,
             "owner": "inclusionAI",
             "repo": "Realtime-Venus",
-            "stars": 116,
+            "stars": 119,
             "topics": []
           },
           "first_seen": "2026-09-22T08:26:59.726Z"
@@ -197,7 +197,7 @@
             "open_issues": 10,
             "owner": "Omni-Interaction-Gander",
             "repo": "Omni-Interaction-Agent",
-            "stars": 302,
+            "stars": 323,
             "topics": []
           },
           "first_seen": "2026-09-09T08:03:27.301Z"
@@ -236,10 +236,10 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2026-09-28T11:03:03Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "QwenAudio",
             "repo": "qwen-audio-agent",
-            "stars": 2814,
+            "stars": 2828,
             "topics": [
               "acp",
               "agent",
@@ -295,7 +295,7 @@
             "open_issues": 8,
             "owner": "MuyeHuang",
             "repo": "DuplexOmni",
-            "stars": 122,
+            "stars": 123,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -587,7 +587,7 @@
             "open_issues": 19,
             "owner": "QwenAudio",
             "repo": "Fun-Audio-Chat",
-            "stars": 1007,
+            "stars": 1008,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -677,7 +677,7 @@
             "open_issues": 16,
             "owner": "VITA-MLLM",
             "repo": "Freeze-Omni",
-            "stars": 399,
+            "stars": 400,
             "topics": [
               "large-language-models",
               "multimodal-large-language-models",
@@ -705,7 +705,7 @@
             "open_issues": 93,
             "owner": "kyutai-labs",
             "repo": "moshi",
-            "stars": 11159,
+            "stars": 11163,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -793,7 +793,7 @@
             "open_issues": 34,
             "owner": "gpt-omni",
             "repo": "mini-omni2",
-            "stars": 1933,
+            "stars": 1934,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -983,7 +983,7 @@
             "open_issues": 1,
             "owner": "SesameAILabs",
             "repo": "turnbench",
-            "stars": 44,
+            "stars": 45,
             "topics": []
           },
           "first_seen": "2026-09-01T08:33:20.819Z"
@@ -1046,7 +1046,7 @@
             "open_issues": 9,
             "owner": "DanielLin94144",
             "repo": "Full-Duplex-Bench",
-            "stars": 304,
+            "stars": 306,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -1067,7 +1067,7 @@
             "open_issues": 9,
             "owner": "DanielLin94144",
             "repo": "Full-Duplex-Bench",
-            "stars": 304,
+            "stars": 306,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -1088,7 +1088,7 @@
             "open_issues": 9,
             "owner": "DanielLin94144",
             "repo": "Full-Duplex-Bench",
-            "stars": 304,
+            "stars": 306,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -1109,7 +1109,7 @@
             "open_issues": 9,
             "owner": "DanielLin94144",
             "repo": "Full-Duplex-Bench",
-            "stars": 304,
+            "stars": 306,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -1157,7 +1157,7 @@
             "open_issues": 2,
             "owner": "MM-Speech",
             "repo": "DuplexSurvey",
-            "stars": 89,
+            "stars": 90,
             "topics": [
               "awesome-list",
               "emnlp2026",
@@ -1198,7 +1198,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T09:42:53.364Z",
+    "last_updated": "2026-09-30T09:34:51.952Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of full-duplex spoken dialogue models & benchmarks",
@@ -1210,7 +1210,7 @@
       "open_issues": 0,
       "owner": "Ruiqi-Yan",
       "repo": "Awesome-Full-Duplex-SDM",
-      "stars": 253,
+      "stars": 252,
       "topics": [
         "awesome-list",
         "full-duplex",
