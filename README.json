@@ -197,7 +197,7 @@
             "open_issues": 10,
             "owner": "Omni-Interaction-Gander",
             "repo": "Omni-Interaction-Agent",
-            "stars": 359,
+            "stars": 365,
             "topics": []
           },
           "first_seen": "2026-09-09T08:03:27.301Z"
@@ -239,7 +239,7 @@
             "open_issues": 12,
             "owner": "QwenAudio",
             "repo": "qwen-audio-agent",
-            "stars": 2836,
+            "stars": 2838,
             "topics": [
               "acp",
               "agent",
@@ -629,7 +629,7 @@
             "open_issues": 69,
             "owner": "NVIDIA",
             "repo": "personaplex",
-            "stars": 10589,
+            "stars": 10590,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -1198,7 +1198,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:25:21.707Z",
+    "last_updated": "2026-10-03T09:03:02.014Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of full-duplex spoken dialogue models & benchmarks",
