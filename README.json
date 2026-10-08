@@ -82,7 +82,7 @@
             "open_issues": 1,
             "owner": "naver-ai",
             "repo": "sommelier",
-            "stars": 62,
+            "stars": 63,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -187,7 +187,7 @@
             "open_issues": 1,
             "owner": "inclusionAI",
             "repo": "Realtime-Venus",
-            "stars": 124,
+            "stars": 130,
             "topics": []
           },
           "first_seen": "2026-09-22T08:26:59.726Z"
@@ -229,7 +229,7 @@
             "open_issues": 10,
             "owner": "Omni-Interaction-Gander",
             "repo": "Omni-Interaction-Agent",
-            "stars": 468,
+            "stars": 484,
             "topics": []
           },
           "first_seen": "2026-09-09T08:03:27.301Z"
@@ -271,7 +271,7 @@
             "open_issues": 20,
             "owner": "QwenAudio",
             "repo": "qwen-audio-agent",
-            "stars": 2849,
+            "stars": 2857,
             "topics": [
               "acp",
               "agent",
@@ -327,7 +327,7 @@
             "open_issues": 8,
             "owner": "MuyeHuang",
             "repo": "DuplexOmni",
-            "stars": 124,
+            "stars": 126,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -390,7 +390,7 @@
             "open_issues": 7,
             "owner": "Bairong-Xdynamics",
             "repo": "TurnSense",
-            "stars": 172,
+            "stars": 173,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -462,7 +462,7 @@
             "open_issues": 25,
             "owner": "kyutai-labs",
             "repo": "unmute",
-            "stars": 1520,
+            "stars": 1521,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -640,7 +640,7 @@
             "open_issues": 19,
             "owner": "FireRedTeam",
             "repo": "FireRedChat",
-            "stars": 589,
+            "stars": 590,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -737,7 +737,7 @@
             "open_issues": 97,
             "owner": "kyutai-labs",
             "repo": "moshi",
-            "stars": 11179,
+            "stars": 11184,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -795,7 +795,7 @@
             "open_issues": 4,
             "owner": "opendilab",
             "repo": "CleanS2S",
-            "stars": 541,
+            "stars": 542,
             "topics": [
               "ai",
               "gpt-4o",
@@ -1230,7 +1230,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T10:08:18.828Z",
+    "last_updated": "2026-10-08T10:24:02.621Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of full-duplex spoken dialogue models & benchmarks",
