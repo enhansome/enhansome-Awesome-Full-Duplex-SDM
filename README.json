@@ -220,7 +220,7 @@
             "open_issues": 2,
             "owner": "inclusionAI",
             "repo": "Realtime-Venus",
-            "stars": 186,
+            "stars": 191,
             "topics": []
           },
           "first_seen": "2026-09-22T08:26:59.726Z"
@@ -304,7 +304,7 @@
             "open_issues": 8,
             "owner": "QwenAudio",
             "repo": "qwen-audio-agent",
-            "stars": 2934,
+            "stars": 2936,
             "topics": [
               "acp",
               "agent",
@@ -444,7 +444,7 @@
             "open_issues": 3,
             "owner": "hyzhang24",
             "repo": "DuplexSLA",
-            "stars": 142,
+            "stars": 143,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -495,7 +495,7 @@
             "open_issues": 25,
             "owner": "kyutai-labs",
             "repo": "unmute",
-            "stars": 1524,
+            "stars": 1525,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -694,7 +694,7 @@
             "open_issues": 70,
             "owner": "NVIDIA",
             "repo": "personaplex",
-            "stars": 11217,
+            "stars": 11226,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -770,7 +770,7 @@
             "open_issues": 97,
             "owner": "kyutai-labs",
             "repo": "moshi",
-            "stars": 11251,
+            "stars": 11254,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -1111,7 +1111,7 @@
             "open_issues": 9,
             "owner": "DanielLin94144",
             "repo": "Full-Duplex-Bench",
-            "stars": 320,
+            "stars": 321,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -1132,7 +1132,7 @@
             "open_issues": 9,
             "owner": "DanielLin94144",
             "repo": "Full-Duplex-Bench",
-            "stars": 320,
+            "stars": 321,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -1153,7 +1153,7 @@
             "open_issues": 9,
             "owner": "DanielLin94144",
             "repo": "Full-Duplex-Bench",
-            "stars": 320,
+            "stars": 321,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -1174,7 +1174,7 @@
             "open_issues": 9,
             "owner": "DanielLin94144",
             "repo": "Full-Duplex-Bench",
-            "stars": 320,
+            "stars": 321,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -1263,7 +1263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T07:41:46.594Z",
+    "last_updated": "2026-10-18T07:56:40.261Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of full-duplex spoken dialogue models & benchmarks",
@@ -1275,7 +1275,7 @@
       "open_issues": 0,
       "owner": "Ruiqi-Yan",
       "repo": "Awesome-Full-Duplex-SDM",
-      "stars": 269,
+      "stars": 270,
       "topics": [
         "awesome-list",
         "full-duplex",
