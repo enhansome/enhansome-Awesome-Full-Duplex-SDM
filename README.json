@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "avera-labs",
             "repo": "ConversationalVoice",
-            "stars": 72,
+            "stars": 76,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -172,11 +172,11 @@
             "id": 1383250866,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-21T04:25:08Z",
+            "last_commit": "2026-10-22T04:28:44Z",
             "open_issues": 0,
             "owner": "adventists-ai",
             "repo": "duplexjev",
-            "stars": 29,
+            "stars": 31,
             "topics": [
               "full-duplex",
               "icassp2027",
@@ -238,10 +238,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-23T03:01:01Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "inclusionAI",
             "repo": "Realtime-Venus",
-            "stars": 208,
+            "stars": 212,
             "topics": []
           },
           "first_seen": "2026-09-22T08:26:59.726Z"
@@ -262,7 +262,7 @@
             "open_issues": 1,
             "owner": "Utkarsh4430",
             "repo": "SteerDuplex",
-            "stars": 10,
+            "stars": 11,
             "topics": []
           },
           "first_seen": "2026-09-17T08:34:34.593Z"
@@ -283,7 +283,7 @@
             "open_issues": 10,
             "owner": "Omni-Interaction-Gander",
             "repo": "Omni-Interaction-Agent",
-            "stars": 571,
+            "stars": 554,
             "topics": []
           },
           "first_seen": "2026-09-09T08:03:27.301Z"
@@ -321,11 +321,11 @@
             "id": 1313435339,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-21T08:11:32Z",
-            "open_issues": 15,
+            "last_commit": "2026-10-21T18:03:48Z",
+            "open_issues": 14,
             "owner": "QwenAudio",
             "repo": "qwen-audio-agent",
-            "stars": 2966,
+            "stars": 2997,
             "topics": [
               "acp",
               "agent",
@@ -381,7 +381,7 @@
             "open_issues": 9,
             "owner": "MuyeHuang",
             "repo": "DuplexOmni",
-            "stars": 136,
+            "stars": 137,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -402,7 +402,7 @@
             "open_issues": 4,
             "owner": "HITsz-TMG",
             "repo": "Lychee-FD",
-            "stars": 156,
+            "stars": 157,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -482,7 +482,7 @@
             "id": 1120402636,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-15T13:12:22Z",
+            "last_commit": "2026-10-21T13:26:19Z",
             "open_issues": 3,
             "owner": "xcc-zach",
             "repo": "xtalk",
@@ -652,7 +652,7 @@
             "open_issues": 18,
             "owner": "ASLP-lab",
             "repo": "Easy-Turn",
-            "stars": 150,
+            "stars": 151,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -694,7 +694,7 @@
             "open_issues": 19,
             "owner": "FireRedTeam",
             "repo": "FireRedChat",
-            "stars": 593,
+            "stars": 594,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -715,7 +715,7 @@
             "open_issues": 70,
             "owner": "NVIDIA",
             "repo": "personaplex",
-            "stars": 11254,
+            "stars": 11262,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -791,7 +791,7 @@
             "open_issues": 97,
             "owner": "kyutai-labs",
             "repo": "moshi",
-            "stars": 11267,
+            "stars": 11270,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -849,7 +849,7 @@
             "open_issues": 4,
             "owner": "opendilab",
             "repo": "CleanS2S",
-            "stars": 540,
+            "stars": 541,
             "topics": [
               "ai",
               "gpt-4o",
@@ -879,7 +879,7 @@
             "open_issues": 34,
             "owner": "gpt-omni",
             "repo": "mini-omni2",
-            "stars": 1935,
+            "stars": 1936,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -921,7 +921,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32213,
+            "stars": 32212,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -1132,7 +1132,7 @@
             "open_issues": 9,
             "owner": "DanielLin94144",
             "repo": "Full-Duplex-Bench",
-            "stars": 325,
+            "stars": 326,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -1153,7 +1153,7 @@
             "open_issues": 9,
             "owner": "DanielLin94144",
             "repo": "Full-Duplex-Bench",
-            "stars": 325,
+            "stars": 326,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -1174,7 +1174,7 @@
             "open_issues": 9,
             "owner": "DanielLin94144",
             "repo": "Full-Duplex-Bench",
-            "stars": 325,
+            "stars": 326,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -1195,7 +1195,7 @@
             "open_issues": 9,
             "owner": "DanielLin94144",
             "repo": "Full-Duplex-Bench",
-            "stars": 325,
+            "stars": 326,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -1284,7 +1284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T08:28:08.325Z",
+    "last_updated": "2026-10-22T08:30:24.385Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of full-duplex spoken dialogue models & benchmarks",
