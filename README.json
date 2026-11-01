@@ -176,7 +176,7 @@
             "open_issues": 1,
             "owner": "adventists-ai",
             "repo": "duplexjev",
-            "stars": 47,
+            "stars": 48,
             "topics": [
               "full-duplex",
               "icassp2027",
@@ -241,7 +241,7 @@
             "open_issues": 4,
             "owner": "inclusionAI",
             "repo": "Realtime-Venus",
-            "stars": 248,
+            "stars": 249,
             "topics": []
           },
           "first_seen": "2026-09-22T08:26:59.726Z"
@@ -283,7 +283,7 @@
             "open_issues": 9,
             "owner": "Omni-Interaction-Gander",
             "repo": "Omni-Interaction-Agent",
-            "stars": 561,
+            "stars": 562,
             "topics": []
           },
           "first_seen": "2026-09-09T08:03:27.301Z"
@@ -322,10 +322,10 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-29T08:44:35Z",
-            "open_issues": 14,
+            "open_issues": 17,
             "owner": "QwenAudio",
             "repo": "qwen-audio-agent",
-            "stars": 3092,
+            "stars": 3095,
             "topics": [
               "acp",
               "agent",
@@ -381,7 +381,7 @@
             "open_issues": 7,
             "owner": "MuyeHuang",
             "repo": "DuplexOmni",
-            "stars": 143,
+            "stars": 144,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -423,7 +423,7 @@
             "open_issues": 3,
             "owner": "BayLing-Models",
             "repo": "BayLing-Duplex",
-            "stars": 96,
+            "stars": 97,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -482,7 +482,7 @@
             "id": 1120402636,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-31T06:33:26Z",
+            "last_commit": "2026-11-01T05:29:01Z",
             "open_issues": 4,
             "owner": "xcc-zach",
             "repo": "xtalk",
@@ -652,7 +652,7 @@
             "open_issues": 18,
             "owner": "ASLP-lab",
             "repo": "Easy-Turn",
-            "stars": 153,
+            "stars": 154,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -715,7 +715,7 @@
             "open_issues": 73,
             "owner": "NVIDIA",
             "repo": "personaplex",
-            "stars": 11979,
+            "stars": 11989,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -791,7 +791,7 @@
             "open_issues": 97,
             "owner": "kyutai-labs",
             "repo": "moshi",
-            "stars": 11350,
+            "stars": 11356,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -1305,7 +1305,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T09:29:57.196Z",
+    "last_updated": "2026-11-01T10:20:29.522Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of full-duplex spoken dialogue models & benchmarks",
@@ -1317,7 +1317,7 @@
       "open_issues": 0,
       "owner": "Ruiqi-Yan",
       "repo": "Awesome-Full-Duplex-SDM",
-      "stars": 281,
+      "stars": 282,
       "topics": [
         "awesome-list",
         "full-duplex",
