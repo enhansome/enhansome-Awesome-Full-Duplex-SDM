@@ -146,19 +146,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Sophon-Realtime v1.1: open full-duplex voice models that hear your tone and speak with one. Zero-shot voice cloning, one GPU with vLLM-Omni, OpenAI Realtime / GPT-Live compatible. Apache-2.0.",
+            "description": "Open full-duplex voice models that hear your tone and speak with one. One GPU with vLLM-Omni, or fully offline on a Mac with MLX. Zero-shot voice cloning, OpenAI Realtime / GPT-Live compatible, free hosted API trial. Apache-2.0.",
             "homepage": "https://www.adventists.ai/#sophon-realtime",
             "id": 1446277821,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T07:56:11Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-15T01:51:54Z",
+            "open_issues": 3,
             "owner": "adventists-ai",
             "repo": "sophon-realtime",
-            "stars": 317,
+            "stars": 353,
             "topics": [
+              "apple-silicon",
               "full-duplex",
               "livekit",
+              "macos",
+              "mlx",
+              "offline",
               "open-source",
               "openai-realtime",
               "paralinguistics",
@@ -213,7 +217,7 @@
             "open_issues": 1,
             "owner": "avera-labs",
             "repo": "AwakenFullDuplex-FunAudioChat",
-            "stars": 10,
+            "stars": 12,
             "topics": []
           },
           "first_seen": "2026-11-07T09:54:40.826Z"
@@ -251,11 +255,11 @@
             "id": 200722670,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T01:43:57Z",
-            "open_issues": 474,
+            "last_commit": "2026-11-15T10:09:25Z",
+            "open_issues": 469,
             "owner": "NVIDIA-NeMo",
             "repo": "Speech",
-            "stars": 18748,
+            "stars": 18753,
             "topics": [
               "asr",
               "deeplearning",
@@ -329,7 +333,7 @@
             "open_issues": 66,
             "owner": "OpenBMB",
             "repo": "MiniCPM-V",
-            "stars": 27147,
+            "stars": 27151,
             "topics": [
               "minicpm",
               "minicpm-o",
@@ -476,7 +480,7 @@
             "open_issues": 1,
             "owner": "adventists-ai",
             "repo": "duplexjev",
-            "stars": 137,
+            "stars": 139,
             "topics": [
               "full-duplex",
               "icassp2027",
@@ -583,7 +587,7 @@
             "open_issues": 9,
             "owner": "Omni-Interaction-Gander",
             "repo": "Omni-Interaction-Agent",
-            "stars": 580,
+            "stars": 581,
             "topics": []
           },
           "first_seen": "2026-09-09T08:03:27.301Z"
@@ -625,7 +629,7 @@
             "open_issues": 26,
             "owner": "QwenAudio",
             "repo": "qwen-audio-agent",
-            "stars": 3223,
+            "stars": 3227,
             "topics": [
               "acp",
               "agent",
@@ -816,7 +820,7 @@
             "open_issues": 25,
             "owner": "kyutai-labs",
             "repo": "unmute",
-            "stars": 1548,
+            "stars": 1549,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -1091,7 +1095,7 @@
             "open_issues": 100,
             "owner": "kyutai-labs",
             "repo": "moshi",
-            "stars": 11512,
+            "stars": 11523,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -1179,7 +1183,7 @@
             "open_issues": 34,
             "owner": "gpt-omni",
             "repo": "mini-omni2",
-            "stars": 1938,
+            "stars": 1939,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -1453,7 +1457,7 @@
             "open_issues": 342,
             "owner": "sierra-research",
             "repo": "tau2-bench",
-            "stars": 2453,
+            "stars": 2454,
             "topics": [
               "ai",
               "benchmark",
@@ -1696,7 +1700,7 @@
             "open_issues": 2,
             "owner": "MM-Speech",
             "repo": "DuplexSurvey",
-            "stars": 112,
+            "stars": 113,
             "topics": [
               "awesome-list",
               "emnlp2026",
@@ -1737,7 +1741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T10:05:46.806Z",
+    "last_updated": "2026-11-15T10:41:01.413Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of full-duplex spoken dialogue models & benchmarks",
