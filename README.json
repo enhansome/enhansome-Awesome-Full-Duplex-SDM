@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "duplexgen",
             "repo": "duplexgen-code",
-            "stars": 30,
+            "stars": 31,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -103,7 +103,7 @@
             "open_issues": 2,
             "owner": "qualialabsAI",
             "repo": "SmoothConv-DuplexConv",
-            "stars": 93,
+            "stars": 96,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -151,11 +151,11 @@
             "id": 1448137949,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T09:18:12Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-18T14:31:59Z",
+            "open_issues": 2,
             "owner": "inclusionAI",
             "repo": "Duo",
-            "stars": 135,
+            "stars": 149,
             "topics": []
           },
           "first_seen": "2026-11-16T10:57:29.833Z"
@@ -172,11 +172,11 @@
             "id": 1446277821,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T05:10:49Z",
+            "last_commit": "2026-11-19T10:00:04Z",
             "open_issues": 10,
             "owner": "adventists-ai",
             "repo": "sophon-realtime",
-            "stars": 441,
+            "stars": 470,
             "topics": [
               "apple-silicon",
               "full-duplex",
@@ -235,10 +235,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-09T04:05:58Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "avera-labs",
             "repo": "AwakenFullDuplex-FunAudioChat",
-            "stars": 14,
+            "stars": 16,
             "topics": []
           },
           "first_seen": "2026-11-07T09:54:40.826Z"
@@ -276,11 +276,11 @@
             "id": 200722670,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T10:45:39Z",
-            "open_issues": 459,
+            "last_commit": "2026-11-19T10:34:17Z",
+            "open_issues": 461,
             "owner": "NVIDIA-NeMo",
             "repo": "Speech",
-            "stars": 18765,
+            "stars": 18768,
             "topics": [
               "asr",
               "deeplearning",
@@ -354,7 +354,7 @@
             "open_issues": 66,
             "owner": "OpenBMB",
             "repo": "MiniCPM-V",
-            "stars": 27166,
+            "stars": 27167,
             "topics": [
               "minicpm",
               "minicpm-o",
@@ -380,7 +380,7 @@
             "open_issues": 2,
             "owner": "krafton-ai",
             "repo": "Raon-Speech",
-            "stars": 131,
+            "stars": 132,
             "topics": []
           },
           "first_seen": "2026-11-07T09:54:40.826Z"
@@ -501,7 +501,7 @@
             "open_issues": 1,
             "owner": "adventists-ai",
             "repo": "duplexjev",
-            "stars": 145,
+            "stars": 150,
             "topics": [
               "full-duplex",
               "icassp2027",
@@ -650,7 +650,7 @@
             "open_issues": 9,
             "owner": "QwenAudio",
             "repo": "qwen-audio-agent",
-            "stars": 3252,
+            "stars": 3257,
             "topics": [
               "acp",
               "agent",
@@ -724,7 +724,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-18T07:19:15Z",
-            "open_issues": 3,
+            "open_issues": 2,
             "owner": "HITsz-TMG",
             "repo": "Lychee-FD",
             "stars": 173,
@@ -977,7 +977,7 @@
             "open_issues": 18,
             "owner": "ASLP-lab",
             "repo": "Easy-Turn",
-            "stars": 156,
+            "stars": 166,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -1040,7 +1040,7 @@
             "open_issues": 73,
             "owner": "NVIDIA",
             "repo": "personaplex",
-            "stars": 12148,
+            "stars": 12154,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -1116,7 +1116,7 @@
             "open_issues": 101,
             "owner": "kyutai-labs",
             "repo": "moshi",
-            "stars": 11553,
+            "stars": 11561,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -1137,7 +1137,7 @@
             "open_issues": 31,
             "owner": "bytedance",
             "repo": "SALMONN",
-            "stars": 1576,
+            "stars": 1577,
             "topics": [
               "audio",
               "audio-processing",
@@ -1246,7 +1246,7 @@
             "open_issues": 1351,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32205,
+            "stars": 32204,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -1334,7 +1334,7 @@
             "open_issues": 5,
             "owner": "herimor",
             "repo": "voxtream",
-            "stars": 262,
+            "stars": 263,
             "topics": [
               "speech-synthesis",
               "streaming",
@@ -1361,7 +1361,7 @@
             "open_issues": 5,
             "owner": "herimor",
             "repo": "voxtream",
-            "stars": 262,
+            "stars": 263,
             "topics": [
               "speech-synthesis",
               "streaming",
@@ -1475,10 +1475,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-10T20:51:09Z",
-            "open_issues": 349,
+            "open_issues": 352,
             "owner": "sierra-research",
             "repo": "tau2-bench",
-            "stars": 2475,
+            "stars": 2483,
             "topics": [
               "ai",
               "benchmark",
@@ -1568,7 +1568,7 @@
             "open_issues": 1,
             "owner": "ASLP-lab",
             "repo": "HumDial-FDBench",
-            "stars": 45,
+            "stars": 52,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:21.856Z"
@@ -1762,7 +1762,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T11:28:31.503Z",
+    "last_updated": "2026-11-19T11:27:09.102Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of full-duplex spoken dialogue models & benchmarks",
